@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0",
+    "net": "^1.0.2",
+    "next": "latest",
+    "nodemailer": "^6.10.0",
+    "nookies": "^2.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tls": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
